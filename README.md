@@ -1,6 +1,8 @@
 Hi, I'm Ratmir
-- I am interested in artificial intelligence
-- I am currently working as a load testing engineer
+
+- I work as a software development engineer in test
+- I am currently studying testing automation with PyTest in Python
+
 
 <!---
 Ratmir-Zakirov/Ratmir-Zakirov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
